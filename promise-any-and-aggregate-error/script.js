@@ -37,3 +37,5 @@ const p = new Promise((resolve, reject) => reject());
   })
   console.log(result);
 })();
+
+//  source: https://backbencher.dev/articles/javascript-es2021-new-features
